@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "dTgr31qNcVcWFQ22Dpkz71cpI5YD35TzGkocvqAcd68=",
+  "Source": "FirstStaticWeb",
+  "BasePath": "_content/FirstStaticWeb",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FirstStaticWeb\\wwwroot",
+      "Source": "FirstStaticWeb",
+      "ContentRoot": "D:\\Akshay\\MyPortfolio\\FirstStaticWeb\\wwwroot\\",
+      "BasePath": "_content/FirstStaticWeb",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
